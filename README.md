@@ -1,5 +1,5 @@
 # pihole-master-list
-A compiled list of several blocklists for pihole, blocks over 3,000,000 domains
+A compiled list of several blocklists for pihole, blocks over 3,000,000 domains. Also includes my whitelist for some common sites and my custom blacklisted domains
 
 Note: This list is compiled from the following links
 
